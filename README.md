@@ -13,7 +13,7 @@ Uma lista de tarefas feita em ReactJS para fins de estudos, suas funções são:
 - ReactJS
 - SCSS
 
-## Layout mobile
+## Layout
 <div align="center">
 <img src="https://github.com/Joaovictormartin/Assets_Geral/blob/main/RJS%20-%20Lista%20de%20Tarefas/lista-de-tarefa.gif"
 </div>
