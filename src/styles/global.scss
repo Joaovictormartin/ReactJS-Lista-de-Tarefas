@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
 :root {
   --blue: #273FAD;
   --green: #3FAD27;
@@ -16,12 +18,13 @@
 }
 
 body {
-  font: 16px "Poppins", Arial, sans-serif;
+  font: 16px 'Roboto', sans-serif;
   color: #121214;
+  min-height: 560px;
 }
 
 input, textarea {
-  font-family: "Poppins";
+  font-family: 'Roboto', sans-serif;
 }
 
 .container {
